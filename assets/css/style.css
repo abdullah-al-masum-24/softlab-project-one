@@ -16,6 +16,8 @@ body {
     text-align: center;
 }
 
+                                                  /********  General CSS Start  *******/
+
 .card-section {
     background-color: #f8f9fd;
     width: 100%;
@@ -149,9 +151,9 @@ span.fa {
     line-height: 1.5;
 }
 
+                                                   /********  General CSS End  *******/
 
-
-
+                                                   /******* Media Query Start ********/
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
@@ -188,3 +190,5 @@ span.fa {
         max-width: 1170px;
     }
 }
+
+                                                           /****** Media Query End *******/
